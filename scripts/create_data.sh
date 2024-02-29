@@ -1,0 +1,1 @@
+python3 tools/nuscenes_converter.py --version v1.0-mini --info_prefix data/infos/mini
